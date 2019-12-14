@@ -1,0 +1,53 @@
+{
+    "server": {
+      "instances": [
+        {
+          "label": "public",
+          "port": "4960"
+        }
+      ]
+    },
+    "app_config": {
+      "jwt": {
+        "expiry": 3600,
+        "refresh": 0
+      },
+      "mongoose": {
+        "connectionstring_imdb": "postgres://sds-v.sarath:root@localhost/ind_qa1_fulfillmentservice",
+        "poolSize": 5,
+        "tables": {
+          "Catalog": "catalog",
+          "CatalogChannel": "catalog_channel",
+          "CatalogMap": "catalog_map",
+          "ComplexInfo": "fulfiller_complex_info",
+          "FeatureWhitelist": "feature_whitelist",
+          "FulfillerMapProcessedFeedHistory": "fulfiller_map_processed_feed_history",
+          "FulfillerMessage": "fulfiller_messages",
+          "Inventory": "inventory",
+          "LeadTimeInfo": "fulfiller_lead_time_info",
+          "OldSalesOrder": "old_sales_order",
+          "OldSalesOrderLineItem": "old_sales_order_line_item",
+          "OrderChangeRequests": "order_change_requests",
+          "OrderNotifications": "order_notifications",
+          "PartnerCallbackFeedHistory": "partner_callback_feed_history",
+          "PostalCodeToStateMapping": "postal_code_to_state_mapping",
+          "PostalCodeToWarehouseMapping": "postal_code_to_warehouse_mapping",
+          "PurchaseOrder": "purchase_order",
+          "PurchaseOrderFulfillment": "purchase_order_fulfillment",
+          "PurchaseOrderFulfillmentExceptions": "purchase_order_fulfillment_exceptions",
+          "PurchaseOrderFulfillmentFailure": "purchase_order_fulfillment_failure_history",
+          "PurchaseOrderLineItem": "purchase_order_line_item",
+          "ReturnedSalesOrder": "returned_sales_order",
+          "ReturnedSalesOrderLineItem": "returned_sales_order_line_item",
+          "SalesOrder": "sales_order",
+          "SalesOrderLineItem": "sales_order_line_item",
+          "ServiceOption": "fulfiller_service_option",
+          "ShipmentMethod": "shipment_method",
+          "SoftAllocation": "soft_allocation",
+          "Warehouse": "warehouse_info"
+        }
+      }
+    },
+    "schema_version": "v1.0.0",
+    "service_name": "imdb"
+  }
