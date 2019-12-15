@@ -10,10 +10,11 @@
     "app_config": {
       "jwt": {
         "expiry": 3600,
-        "refresh": 0
+        "refresh": 0,
+        "privateKey": "NzMwNWQ5NDMtOWUzYy00MjRhLTk1ODYtZjFlNTJkNjcyNmI0"
       },
       "mongoose": {
-        "connectionstring_imdb": "postgres://sds-v.sarath:root@localhost/ind_qa1_fulfillmentservice",
+        "connectionstring_imdb": "mongodb://localhost:27017/imdb",
         "poolSize": 5,
         "tables": {
           "Catalog": "catalog",

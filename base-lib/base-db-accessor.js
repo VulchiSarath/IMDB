@@ -17,7 +17,7 @@ class BaseDbAccessor {
     }
   }
 
-  async filter(options) {
+  async filter(options = {}) {
     return new Promise((resolve, reject) => {
       try {
         let model = mongoose.model(this.document, this.schema);
@@ -25,7 +25,7 @@ class BaseDbAccessor {
           if (err) {
             reject(err)
           }
-          let result = response.map(user => user.toObject())
+          let result = response.map(row => row.toObject())
           resolve(result);
         });
 
@@ -33,8 +33,44 @@ class BaseDbAccessor {
         reject(e);
       }
     });
-
   }
+
+  async findOneAndUpdate(query, update) {
+    return new Promise((resolve, reject) => {
+      try {
+        let model = mongoose.model(this.document, this.schema);
+        model.findOneAndUpdate(query, { $set: update }, (err, response) => {
+          if (err) {
+            reject(err)
+          }
+          resolve(response);
+        });
+      } catch (error) {
+        reject(error);
+      }
+    });
+  }
+
+  async findSortAndLimit(query) {
+    return new Promise((resolve, reject) => {
+      try {
+        let model = mongoose.model(this.document, this.schema);
+        let sort = { up_votes: -1 };
+
+        model.find(query).sort(sort).limit(10).exec(function (err, response) {
+          if (err) {
+            reject(err)
+          }
+          let result = response.map(row => row.toObject())
+          resolve(result);
+        });
+
+      } catch (error) {
+        reject(error);
+      }
+    });
+  }
+
 
 }
 

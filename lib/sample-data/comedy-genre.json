@@ -1,0 +1,802 @@
+[
+    {
+      "name": "Lady Bird",
+      "_id": "9a6a5557-88c9-44cc-9a6d-2659b611323c",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 549,
+      "down_votes": 70,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "BlacKkKlansman",
+      "_id": "81c47652-964e-4281-9354-c0275592753a",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 221,
+      "down_votes": 23,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Modern Times",
+      "_id": "c5d905a6-60c3-42d4-849e-b4a1dc53a57e",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 444,
+      "down_votes": 97,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "It Happened One Night",
+      "_id": "f918bb2f-bce0-4d43-a003-e76dc85751cc",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 109,
+      "down_votes": 59,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Eighth Grade",
+      "_id": "10237322-5c59-4ffc-b891-0213a33f51c9",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 670,
+      "down_votes": 37,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Coco",
+      "_id": "a96bac3d-0ddd-412e-92f8-e0c19073301f",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 441,
+      "down_votes": 97,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Singin' in the Rain",
+      "_id": "704365af-ca2e-44ef-b052-15a0ce871e12",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 622,
+      "down_votes": 89,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Big Sick",
+      "_id": "1ee35d66-a11e-412a-8010-4d21e4a79c85",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 966,
+      "down_votes": 82,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Paddington 2",
+      "_id": "c1a4f600-079a-4e8c-ba7b-8031e8a2f896",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 447,
+      "down_votes": 14,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "A Hard Day's Night",
+      "_id": "127e511d-5fee-4b52-aeb6-5a3df0230b71",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 597,
+      "down_votes": 20,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Philadelphia Story",
+      "_id": "fa0f9eb0-32fb-4d39-961b-9a8ae96797a6",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 991,
+      "down_votes": 29,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "La La Land",
+      "_id": "690de92f-f111-4d67-a818-a02f41badf42",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 663,
+      "down_votes": 36,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Zootopia",
+      "_id": "d5b38faf-03b8-4bbb-9604-2fabeea0d565",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 450,
+      "down_votes": 56,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Toy Story 2",
+      "_id": "5e52f2d1-b4d1-49ea-ad00-b8c7450d4ee8",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 853,
+      "down_votes": 87,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Up",
+      "_id": "9c2af438-2e00-4502-bfdb-f2116a95f60e",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 355,
+      "down_votes": 85,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Kind Hearts and Coronets",
+      "_id": "aafc0367-f45b-43b1-9490-eb71698e62a3",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 101,
+      "down_votes": 97,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Toy Story",
+      "_id": "f4aabc27-7f23-4d66-bf0f-241951b4a9c0",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 493,
+      "down_votes": 71,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Three Billboards Outside Ebbing, Missouri",
+      "_id": "dca24db6-0db2-46ec-b528-d8475e595aee",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 483,
+      "down_votes": 66,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Finding Nemo",
+      "_id": "e99f4ae8-fcf6-4c05-a0f4-b4b40a0ba070",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 445,
+      "down_votes": 83,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb",
+      "_id": "bb81116e-7bf0-4cb6-9291-773e7669d6a5",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 963,
+      "down_votes": 67,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Death of Stalin",
+      "_id": "8d567fe7-2259-46f5-80cb-b66ff1df0043",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 760,
+      "down_votes": 51,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Roman Holiday",
+      "_id": "ab0b1c88-c31d-499d-a036-fd587ce2e174",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 719,
+      "down_votes": 36,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Ant-Man and the Wasp",
+      "_id": "dc5c9e43-fc84-482e-83ee-db49f44024ec",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 508,
+      "down_votes": 44,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Crazy Rich Asians",
+      "_id": "d84e61a4-c8a6-48a0-b4e0-9ba8d0b07fd8",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 675,
+      "down_votes": 63,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Toy Story",
+      "_id": "006c9609-db51-4ffc-ae02-d5ff7d38e87f",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 360,
+      "down_votes": 21,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Sorry to Bother You",
+      "_id": "1bec5ccf-0017-46f8-a352-6f553c93e4c1",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 187,
+      "down_votes": 9,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Gold Rush",
+      "_id": "06eebcca-e039-4f6e-bb66-56c369cde175",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 39,
+      "down_votes": 57,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Paterson",
+      "_id": "11cdff56-5441-4887-b3c1-066ae3ba2e4b",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 966,
+      "down_votes": 5,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The LEGO Movie",
+      "_id": "f199a517-6539-4a00-b76d-7f09b8ee7937",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 218,
+      "down_votes": 83,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "To Be or Not to Be",
+      "_id": "dda5470d-9a1b-4f00-8202-8d2cc0a3ca7e",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 484,
+      "down_votes": 74,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Monty Python and the Holy Grail",
+      "_id": "48b01546-84ba-4885-97dd-ab1f3169359f",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 874,
+      "down_votes": 16,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Disaster Artist",
+      "_id": "60e0b57f-a522-44bd-a9b3-1f4cf761e75d",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 500,
+      "down_votes": 59,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Isle of Dogs",
+      "_id": "0c0a14ad-17d2-4b7b-afee-39817483b5c7",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 887,
+      "down_votes": 98,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "His Girl Friday",
+      "_id": "eb052ae8-2c02-4b66-bc24-d0c423eab49b",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 721,
+      "down_votes": 2,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "La Dolce Vita",
+      "_id": "2e0944e2-f08c-42dc-bf61-a04647e8dc30",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 534,
+      "down_votes": 4,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Shaun the Sheep Movie",
+      "_id": "df7aea72-d5d5-453d-830e-b3f0c91ebbab",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 490,
+      "down_votes": 29,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "City Lights",
+      "_id": "726782e5-7e76-4582-9bf8-546d849f9550",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 273,
+      "down_votes": 77,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Birdman",
+      "_id": "d523ccc0-a70d-49d5-8a61-9ff9e292f566",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 758,
+      "down_votes": 32,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Artist",
+      "_id": "50c9fd88-45e4-4b59-8616-0eb05dd3b814",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 891,
+      "down_votes": 91,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Nice Guys",
+      "_id": "44812bfa-2614-4c2c-86fd-124c25f9f049",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 185,
+      "down_votes": 54,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Love & Friendship",
+      "_id": "ede2c288-ace2-4445-b155-006638e67095",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 419,
+      "down_votes": 98,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Mary Poppins",
+      "_id": "c07957d6-a253-44a6-a2a3-b6312f306d6a",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 970,
+      "down_votes": 35,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Annie Hall",
+      "_id": "61418c48-d2a2-4ff9-8794-1c0d43243aab",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 407,
+      "down_votes": 55,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Discreet Charm Of The Bourgeoisie (Le Charme Discret de la Bourgeoisie)",
+      "_id": "2652b851-bc95-4e87-963e-228c049c284a",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 901,
+      "down_votes": 62,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Spy",
+      "_id": "87e4c5c2-88d0-4adf-b3ef-df81d17164ed",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 346,
+      "down_votes": 98,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Rules of the Game (La règle du jeu)",
+      "_id": "273367c0-7a73-46b5-bbaa-aee60f207ddd",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 320,
+      "down_votes": 82,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Ratatouille",
+      "_id": "b7cde794-3c2c-40ee-b8b9-b1d50a24d714",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 637,
+      "down_votes": 14,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Gentlemen Prefer Blondes",
+      "_id": "e6b52755-9c2a-4457-bdb4-8b97dd7a49ea",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 829,
+      "down_votes": 25,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Incredibles",
+      "_id": "3b77c3cc-a160-4c0c-a9e8-af2c0bea31e2",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 760,
+      "down_votes": 8,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Tampopo",
+      "_id": "325f3413-ece3-4697-9258-25bd1d633ced",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 542,
+      "down_votes": 68,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Logan Lucky",
+      "_id": "3650d87b-bf7b-405e-aa0a-13bf5a27633d",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 286,
+      "down_votes": 75,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Sideways",
+      "_id": "5a1bcee3-3507-45ef-9629-6f21b2e91cc6",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 849,
+      "down_votes": 91,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Hunt for the Wilderpeople",
+      "_id": "39358279-e15a-43eb-adef-eceb670c01b6",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 893,
+      "down_votes": 58,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Chicken Run",
+      "_id": "edaf8b67-7d91-40e8-806d-63221b4f1bed",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 42,
+      "down_votes": 48,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Yellow Submarine",
+      "_id": "f80963d5-fc56-447d-bbaa-48be68d3cd88",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 550,
+      "down_votes": 1,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "101 Dalmatians",
+      "_id": "ac6329ba-8614-4da3-a0bd-6a3c24bfaabf",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 522,
+      "down_votes": 10,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Ghostbusters",
+      "_id": "ec370032-d0b9-46bb-8198-7564eb45f375",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 549,
+      "down_votes": 64,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Airplane!",
+      "_id": "645fc927-5fa5-4f60-a462-d76139a40104",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 324,
+      "down_votes": 61,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Grand Budapest Hotel",
+      "_id": "c5f66614-116d-40cc-acc5-6a0db4dd1a05",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 910,
+      "down_votes": 80,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Apartment",
+      "_id": "a8b14355-3a49-4ef1-9e23-02ac6d10ea0f",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 759,
+      "down_votes": 79,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Don't Think Twice",
+      "_id": "9f7ba4e9-f1e0-426b-8766-76f3f3f4d0ef",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 589,
+      "down_votes": 23,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Bringing Up Baby",
+      "_id": "cf253f08-f407-4967-9c8e-6dd5291537f2",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 207,
+      "down_votes": 4,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Big",
+      "_id": "76c4617a-060c-4b0b-a07c-10bb0cb26b3e",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 833,
+      "down_votes": 24,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Paddington",
+      "_id": "0e4c092a-997f-4ebf-b1fc-02d688049429",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 952,
+      "down_votes": 61,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Playtime",
+      "_id": "a20779b0-f6bc-4fd8-9f59-5cbd2a35242a",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 329,
+      "down_votes": 40,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Player",
+      "_id": "5cc71c11-0f85-4e9b-8c45-03154118d5c7",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 12,
+      "down_votes": 25,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Monsters, Inc.",
+      "_id": "c054b5bd-d2b8-443d-b533-99143c4edac4",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 140,
+      "down_votes": 44,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "What We Do In The Shadows",
+      "_id": "482346de-efa2-4638-9576-b2bda80995bb",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 652,
+      "down_votes": 13,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Groundhog Day",
+      "_id": "efde40bd-7197-4e9f-bcb7-25336267db95",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 788,
+      "down_votes": 46,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Back to the Future",
+      "_id": "0de4367b-0f2a-4178-9580-8b2175afbf90",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 882,
+      "down_votes": 20,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Some Like It Hot",
+      "_id": "2f8c28e5-ff01-4994-a12a-618d7267cc59",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 787,
+      "down_votes": 337,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Anomalisa",
+      "_id": "4265b1f0-4c7f-4f53-8115-cbe3913e8418",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 226,
+      "down_votes": 371,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Moonrise Kingdom",
+      "_id": "451ad0ca-cd6a-4fab-a398-6240f7a78e12",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 342,
+      "down_votes": 829,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Bull Durham",
+      "_id": "3898584b-f7fe-44c0-8b15-156eae68bc5a",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 290,
+      "down_votes": 378,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Lego Batman Movie",
+      "_id": "97e51034-646f-4de5-a5b6-ef6794276bda",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 869,
+      "down_votes": 477,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Duck Soup",
+      "_id": "1786313c-7cb4-4bd6-9cec-f342ba7784a5",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 419,
+      "down_votes": 921,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Enough Said",
+      "_id": "3636cc49-83fa-44ec-8242-2d43b7c3180d",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 616,
+      "down_votes": 451,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Muppets",
+      "_id": "8032c805-d49a-41bb-8691-8ec8e4f51530",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 464,
+      "down_votes": 557,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Deadpool 2",
+      "_id": "c95e07aa-e0e8-451e-b631-071824da29ca",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 625,
+      "down_votes": 822,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Edge of Seventeen",
+      "_id": "22c33a72-b60d-4bde-b7b9-9e7a615b280f",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 404,
+      "down_votes": 920,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Who Framed Roger Rabbit",
+      "_id": "7ac52abe-1be8-4b98-8ed2-6dd2071721c4",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 480,
+      "down_votes": 203,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Broadcast News",
+      "_id": "7db40ea4-a308-4dd4-ae7e-22bb45aa384e",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 498,
+      "down_votes": 551,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Lost In Translation",
+      "_id": "2f83f87f-40ae-4c8e-acc6-651257d061fd",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 67,
+      "down_votes": 221,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Tangerine",
+      "_id": "aca642ab-a382-40a5-aa0d-e1fb5d80b2a3",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 746,
+      "down_votes": 337,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Taste of Others (Le goût des autres)",
+      "_id": "331cf7fa-f038-4ae7-9348-eed4283553b8",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 763,
+      "down_votes": 371,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Band's Visit",
+      "_id": "935f6a01-70e1-49be-b8ad-f531bb95afcf",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 43,
+      "down_votes": 829,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Young Frankenstein",
+      "_id": "80603371-88bf-40fc-80a3-2029132d85df",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 674,
+      "down_votes": 90,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Repo Man",
+      "_id": "e5b8f070-b1ee-472d-9d6a-f78ef78d2490",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 61,
+      "down_votes": 5,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Hannah Gadsby: Nanette",
+      "_id": "42f66fb6-4daf-4dad-90c5-2eb1c2760228",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 80,
+      "down_votes": 28,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Le Havre",
+      "_id": "127d0f45-8dde-4153-b8a7-64a9cf63a198",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 79,
+      "down_votes": 58,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Silver Linings Playbook",
+      "_id": "6a650411-d210-4018-b414-f15d142498d5",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 23,
+      "down_votes": 41,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Guardians of the Galaxy Vol. 2",
+      "_id": "39602530-f114-4c87-b00c-1750a2b35256",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 4,
+      "down_votes": 49,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Truman Show",
+      "_id": "64194f3d-cd8d-40a3-ba24-29a6a60951f5",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 24,
+      "down_votes": 4,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Say Anything...",
+      "_id": "bfd68052-030f-43f4-ba83-23e0f9512480",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 61,
+      "down_votes": 90,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Juno",
+      "_id": "72765e17-a29e-46e0-9e2f-af37617efae8",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 61,
+      "down_votes": 68,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "_id": "37fe9e2b-c775-4732-8d02-e1ca4b9e0f47",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 80,
+      "down_votes": 68,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Elaine Stritch: Shoot Me",
+      "_id": "31135712-58d5-4f99-83be-6cb07ab24a77",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 79,
+      "down_votes": 51,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Manhattan",
+      "_id": "20cc9b52-b20b-4e14-8d86-1a963636677f",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 23,
+      "down_votes": 34,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Monsieur Lazhar",
+      "_id": "46884510-bfaf-4e39-91a5-071294440310",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 4,
+      "down_votes": 10,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "American Graffiti",
+      "_id": "72fa29df-5003-46e8-9c7f-c28cdc5af6d5",
+      "genre_id": "23370ab3-71ab-4517-8fb5-9f283093d10c",
+      "up_votes": 24,
+      "down_votes": 44,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    }
+  ]

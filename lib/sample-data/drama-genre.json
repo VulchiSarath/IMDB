@@ -1,0 +1,802 @@
+[
+    {
+      "name": "Black Panther",
+      "_id": "dda0da44-f3f2-4dce-8971-4b3d49ebd88e",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 549,
+      "down_votes": 70,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Lady Bird",
+      "_id": "eadd7d8f-33d5-4425-94c3-c977097f56b5",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 221,
+      "down_votes": 23,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Citizen Kane",
+      "_id": "827faaac-d229-4d15-885a-8fc6c3b8b89c",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 444,
+      "down_votes": 97,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "BlacKkKlansman",
+      "_id": "e5b6f0bd-b0dc-4332-a959-c0abc2cdc3ec",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 109,
+      "down_votes": 59,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Moonlight",
+      "_id": "99ec36df-aeff-4c2a-8488-c44078174f72",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 670,
+      "down_votes": 37,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Dunkirk",
+      "_id": "9b7648fc-2c8d-47db-854e-2a4658905740",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 441,
+      "down_votes": 97,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Wonder Woman",
+      "_id": "4766d389-2393-47a1-ae81-af41cffc8742",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 622,
+      "down_votes": 89,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Casablanca",
+      "_id": "d33521bd-2d45-4d78-ab77-f3236544caed",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 966,
+      "down_votes": 82,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "La Grande illusion (Grand Illusion)",
+      "_id": "32c97ea8-c664-48c4-81bd-c4e894131c79",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 447,
+      "down_votes": 14,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "A Quiet Place",
+      "_id": "7727f8cd-1282-426c-9399-ae099a735ce2",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 597,
+      "down_votes": 20,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "All About Eve",
+      "_id": "8df54046-1cde-4543-b4e9-f25b97277b62",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 991,
+      "down_votes": 29,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Spotlight",
+      "_id": "73b7b6f4-e8b6-46ad-b8e9-613f6d7a9995",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 663,
+      "down_votes": 36,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Selma",
+      "_id": "a11368b1-4894-4147-924e-86811f9adfc5",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 450,
+      "down_votes": 56,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Star Wars: The Last Jedi",
+      "_id": "47c7f679-15dd-4cd4-8e3e-bb067bd29baf",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 853,
+      "down_votes": 87,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Shape of Water",
+      "_id": "96af4e53-5425-443f-839e-0a9b5a0736cc",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 355,
+      "down_votes": 85,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Arrival",
+      "_id": "5c846ff3-93f4-4c04-bbcc-7aeb4c7e07a3",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 101,
+      "down_votes": 97,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Thor: Ragnarok",
+      "_id": "5fc08ea8-6a5c-4636-9a60-bd4ec01a13d1",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 493,
+      "down_votes": 71,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Godfather",
+      "_id": "b2b0f9b7-5c14-463f-b84c-120724c986a6",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 483,
+      "down_votes": 66,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Logan",
+      "_id": "17ba103d-9952-4ad7-bdc9-d646bd200494",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 445,
+      "down_votes": 83,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Call Me by Your Name",
+      "_id": "4c4753ec-912b-4fa3-beaf-6220d4f80174",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 963,
+      "down_votes": 67,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Metropolis",
+      "_id": "3b65b9fa-709e-4011-972a-8984ce7e1f31",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 760,
+      "down_votes": 51,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Gravity",
+      "_id": "72f8f5a2-95a9-42bc-93b1-01bf81a65835",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 719,
+      "down_votes": 36,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Leave No Trace",
+      "_id": "785fa52f-e34f-4657-86bc-0f720cf3e8f9",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 508,
+      "down_votes": 44,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Maltese Falcon",
+      "_id": "73029f03-9812-420a-b721-c95b87fddef2",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 675,
+      "down_votes": 63,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Boyhood",
+      "_id": "b40e4da9-0a45-4e2b-af4b-d3a51b6effcf",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 360,
+      "down_votes": 21,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Manchester by the Sea",
+      "_id": "07aa4961-3c4b-4809-881e-10ce3337f0d0",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 187,
+      "down_votes": 9,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Argo",
+      "_id": "dad88e71-1bc9-40e2-bd23-8380427733ed",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 39,
+      "down_votes": 57,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Years a Slave",
+      "_id": "35edb3eb-c2eb-47d5-88ff-55f993502646",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 966,
+      "down_votes": 5,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Baby Driver",
+      "_id": "5125b7f9-5705-4926-9f00-1adc6a00e189",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 218,
+      "down_votes": 83,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Battle of Algiers (La Battaglia di Algeri)",
+      "_id": "30264c5c-d269-4b93-b547-6244931078ca",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 484,
+      "down_votes": 74,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "War for the Planet of the Apes",
+      "_id": "f428fb2d-474c-4448-b552-c6dac1cce3d0",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 874,
+      "down_votes": 16,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Florida Project",
+      "_id": "37b0415c-4acf-4cb0-9e67-09dc67c24576",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 500,
+      "down_votes": 59,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Night of the Hunter",
+      "_id": "c68f8f1f-c347-46d7-a04d-1cbc4330ca34",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 887,
+      "down_votes": 98,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "La La Land",
+      "_id": "500cd000-fa37-47de-a40e-e26452204943",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 721,
+      "down_votes": 2,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Spider-Man: Homecoming",
+      "_id": "aae0c91c-3319-4687-a916-eba403360b95",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 534,
+      "down_votes": 4,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Alien",
+      "_id": "90d9662f-f617-4c41-b118-6412d45c69ba",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 490,
+      "down_votes": 29,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Seven Samurai (Shichinin no Samurai)",
+      "_id": "96dc89b3-e90e-43ec-9997-1b084c667903",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 273,
+      "down_votes": 77,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Sunset Boulevard",
+      "_id": "a6470fe8-b71e-4b8a-b916-ed54277a4852",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 758,
+      "down_votes": 32,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Rebecca",
+      "_id": "29889c5a-6d20-48ab-8f20-47d925476096",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 891,
+      "down_votes": 91,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Bicycle Thieves (Ladri di biciclette) (The Bicycle Thief)",
+      "_id": "9451fcc1-a6da-4867-b862-aafd98ebdcc1",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 185,
+      "down_votes": 54,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Rear Window",
+      "_id": "49f8255d-40c4-454d-a5d0-d96683581b42",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 419,
+      "down_votes": 98,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Touch of Evil",
+      "_id": "e73f853c-33a9-4236-a14f-c5e6367dfae4",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 970,
+      "down_votes": 35,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Hell or High Water",
+      "_id": "68cb2f6b-153a-489c-8a6e-d1e075d3a133",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 407,
+      "down_votes": 55,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "M",
+      "_id": "72bc4ece-4da2-48d8-b776-7f4968e4b5fd",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 901,
+      "down_votes": 62,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Kind Hearts and Coronets",
+      "_id": "8e8bd55d-8052-4abd-842a-bd292a9c8867",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 346,
+      "down_votes": 98,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "A Streetcar Named Desire",
+      "_id": "ac352aca-7a13-4c85-aa33-d4fc66b2ed79",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 320,
+      "down_votes": 82,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "All Quiet on the Western Front",
+      "_id": "a1449294-dab3-4247-9661-ec6ebeb584b9",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 637,
+      "down_votes": 14,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The  Blows (Les Quatre cents coups)",
+      "_id": "18be0940-e361-43a2-95c6-2acf6db781d5",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 829,
+      "down_votes": 25,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Jaws",
+      "_id": "1ac27e69-dcae-4355-a0ac-67d3ce880b35",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 760,
+      "down_votes": 8,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Angry Men (Twelve Angry Men)",
+      "_id": "f453d44c-0516-4ced-b033-f10dfa9ba0ee",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 542,
+      "down_votes": 68,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Lawrence of Arabia",
+      "_id": "9ad112c9-a791-43ed-8814-2b8147f9b405",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 286,
+      "down_votes": 75,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Babadook",
+      "_id": "c889f306-c490-435a-8bf5-845dfc7326ba",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 849,
+      "down_votes": 91,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Brooklyn",
+      "_id": "8f69947d-5aa3-4ada-a5bf-d423aa0cb6b7",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 893,
+      "down_votes": 58,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Dark Knight",
+      "_id": "78d0438b-594f-48d7-a736-02068748c914",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 42,
+      "down_votes": 48,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Three Billboards Outside Ebbing, Missouri",
+      "_id": "411b374c-6fbf-4c90-91f8-8917edcc34d4",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 550,
+      "down_votes": 1,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Taxi Driver",
+      "_id": "ffa11a26-c526-4208-b8b7-a5ddb2a37dd8",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 522,
+      "down_votes": 10,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Rashômon",
+      "_id": "3a2f3ec6-6592-4415-8912-071504a95209",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 549,
+      "down_votes": 64,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Chinatown",
+      "_id": "a07b3cd5-79cc-411d-98ec-ba7b83897686",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 324,
+      "down_votes": 61,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Treasure of the Sierra Madre",
+      "_id": "bf258bbf-bf75-4ddb-8313-13a03ad6a54d",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 910,
+      "down_votes": 80,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Big Sleep",
+      "_id": "2c15d3f0-cef7-4faf-bdde-a1bdc48f5fe8",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 759,
+      "down_votes": 79,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Vertigo",
+      "_id": "d56a772b-87c5-4fdf-9439-028edfcc0668",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 589,
+      "down_votes": 23,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Double Indemnity",
+      "_id": "87d37419-0ba6-4a73-8667-388d9368a349",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 207,
+      "down_votes": 4,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Wrestler",
+      "_id": "a6762f06-edd8-4bed-8d5d-bc2237ffa243",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 833,
+      "down_votes": 24,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Repulsion",
+      "_id": "e2e31c0e-c573-4068-aecc-fa1793cc2d1b",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 952,
+      "down_votes": 61,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Creed",
+      "_id": "981262ae-dae3-491c-ac43-c62044bd83b0",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 329,
+      "down_votes": 40,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Grapes of Wrath",
+      "_id": "5ba44ae2-4d3c-4f5f-91cd-6cbad8a3afd1",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 12,
+      "down_votes": 25,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Army of Shadows (L'Armée des ombres)",
+      "_id": "4f22a5a9-78ec-4e17-8c9a-7f2b4b98fbba",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 140,
+      "down_votes": 44,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Harry Potter and the Deathly Hallows - Part 2",
+      "_id": "5ab25fac-eae7-457b-a32b-a2caf23056c2",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 652,
+      "down_votes": 13,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Wages of Fear",
+      "_id": "ac584358-4177-461c-a477-437b14d4fd6d",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 788,
+      "down_votes": 46,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Open City",
+      "_id": "68f96ad9-0881-4268-b04d-5846e5a37b69",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 882,
+      "down_votes": 20,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Apocalypse Now",
+      "_id": "21585593-807f-48e2-a1c0-e446cbeed24b",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 787,
+      "down_votes": 337,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Death of Stalin",
+      "_id": "54cac1b9-166e-4035-bf30-0f23afdbf758",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 226,
+      "down_votes": 371,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Roman Holiday",
+      "_id": "2c6e44db-a221-42b2-81d8-f1fa8937c7bd",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 342,
+      "down_votes": 829,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Hurt Locker",
+      "_id": "421b648b-d666-4c46-8081-10d86c87300b",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 290,
+      "down_votes": 378,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "L.A. Confidential",
+      "_id": "e19ab8e8-a03f-4337-a47f-e01bf6b970b3",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 869,
+      "down_votes": 477,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "It's a Wonderful Life",
+      "_id": "8b170b4c-eca7-4f2b-ab44-035b27c23a5f",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 419,
+      "down_votes": 921,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Hidden Figures",
+      "_id": "ab1afb7f-af1f-4576-9a48-0561c43810d0",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 616,
+      "down_votes": 451,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "_id": "4f4ed96e-b608-452f-896f-08d3f22619de",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 464,
+      "down_votes": 557,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Tokyo Story (Tôkyô monogatari)",
+      "_id": "94b1015c-3781-459d-8431-3502fc6523fd",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 625,
+      "down_votes": 822,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Last Picture Show",
+      "_id": "bf6eae6b-590f-4418-98f9-3bc1d3cee9f3",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 404,
+      "down_votes": 920,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Godfather, Part II",
+      "_id": "04d75559-4d77-4641-b8f0-7f56f39bf6c3",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 480,
+      "down_votes": 203,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "On the Waterfront",
+      "_id": "b0bbb190-0329-4142-99ba-0268b5437553",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 498,
+      "down_votes": 551,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Paterson",
+      "_id": "d698b3cb-873c-4a88-a12e-a691a478ff42",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 67,
+      "down_votes": 221,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Star Trek",
+      "_id": "a4ad2944-9219-4c3b-bde5-c5264d749f81",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 746,
+      "down_votes": 337,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Carol",
+      "_id": "225a591d-3ab6-4403-bc57-04a4544f5498",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 763,
+      "down_votes": 371,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Social Network",
+      "_id": "956ce2d8-f350-4560-9516-8bdc56833384",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 43,
+      "down_votes": 829,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Blade Runner",
+      "_id": "0dd16df6-69bb-49af-95f8-b981d2f8d147",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 674,
+      "down_votes": 90,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Phantom Thread",
+      "_id": "d7067774-5cc9-4d53-a614-e2bb0c9692b6",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 61,
+      "down_votes": 5,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "To Be or Not to Be",
+      "_id": "ebbad8b2-d45d-41be-95ed-51e4834e86d6",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 80,
+      "down_votes": 28,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Cool Hand Luke",
+      "_id": "91adda14-e9d8-41e9-b62d-f112597baf11",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 79,
+      "down_votes": 58,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Battleship Potemkin",
+      "_id": "5584c4f5-2d93-4306-a77d-c24a5657074e",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 23,
+      "down_votes": 41,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Anatomy of a Murder",
+      "_id": "659add0e-4f0a-4f31-876f-f6a0ea379a25",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 4,
+      "down_votes": 49,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Nightcrawler",
+      "_id": "b5dbc314-b5e8-4513-9380-0dcdd3aae841",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 24,
+      "down_votes": 4,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "I, Tonya",
+      "_id": "ec63a6b6-667c-4dfe-b1bf-2ccc7aaa62f5",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 61,
+      "down_votes": 90,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Conformist",
+      "_id": "b5410b78-dba2-45ca-b6f5-c43a12755856",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 61,
+      "down_votes": 68,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "His Girl Friday",
+      "_id": "533cad99-956b-43c9-b954-3550eb7ab7e1",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 80,
+      "down_votes": 68,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Au Hasard Balthazar",
+      "_id": "26fd55f0-6505-4d0f-9175-0c77a44a08a0",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 79,
+      "down_votes": 51,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The Post",
+      "_id": "21b6b368-9d89-412c-81de-75415e2b780c",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 23,
+      "down_votes": 34,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "Beauty and The Beast (La Belle et la bête)",
+      "_id": "29ff69e0-775a-469f-a043-54c3e49e051b",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 4,
+      "down_votes": 10,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    },
+    {
+      "name": "The African Queen",
+      "_id": "94d96843-4948-4090-a90d-2f8f103bcb36",
+      "genre_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43",
+      "up_votes": 24,
+      "down_votes": 44,
+      "release_date": "2019-12-15T01:21:22.585+00:00"
+    }
+  ]

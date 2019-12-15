@@ -5,7 +5,9 @@ let Hapi = require('@hapi/hapi'),
   path = require('path'),
   assert = require('assert'),
   _ = require('lodash'),
-  fs = require('fs');
+  fs = require('fs'),
+  Auth = require('./lib/common/helpers/auth'),
+  Errors = require('./lib/common/errors');
 
 class BaseAppLoader {
 
@@ -114,6 +116,7 @@ class BaseAppLoader {
       )
 
       await server.register([]);
+
       me.applicationData.serverObjects[instanceConfig.label] = server;
     }
   }
@@ -143,10 +146,15 @@ class BaseAppLoader {
     });
   }
 
-  registerSpecificStrategies(server, dependencies, config) { // eslint-disable-line
-    /*
-      Child class needs to override it.
-    */
+  async authValidation(request) {
+    try {
+      await Auth.validate(request);
+    } catch (error) {
+      throw error;
+    }
+  }
+
+  registerSpecificStrategies(server, dependencies, config) {
   }
 
   registerAuthStrategies() {

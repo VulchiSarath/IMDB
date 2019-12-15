@@ -1,0 +1,99 @@
+[
+    {
+      "genre": "Absurdist/surreal/whimsical",
+      "_id": "086ea138-f962-4c1b-84f3-cd5d11bb8c91"
+    },
+    {
+      "genre": "Action",
+      "_id": "0a3dddd8-d23a-495f-917a-cd8a60bf9628"
+    },
+    {
+      "genre": "Adventure",
+      "_id": "5192c0a8-9dbe-4da4-8eaa-980fc8793f5e"
+    },
+    {
+      "genre": "Comedy",
+      "_id": "23370ab3-71ab-4517-8fb5-9f283093d10c"
+    },
+    {
+      "genre": "Crime",
+      "_id": "8998783d-3d04-45d0-9ca4-f7d9504bf8b1"
+    },
+    {
+      "genre": "Drama",
+      "_id": "7ca1a74e-94ff-47d5-ae32-03b8712ecc43"
+    },
+    {
+      "genre": "Fantasy",
+      "_id": "46e1dab9-56e3-48ed-9a61-1c2bed238a7c"
+    },
+    {
+      "genre": "Historical",
+      "_id": "be73732e-09cf-4f3d-b0a8-448475467e55"
+    },
+    {
+      "genre": "Historical fiction",
+      "_id": "d5b4e759-6d25-43cc-aa6b-f46203944e16"
+    },
+    {
+      "genre": "Horror",
+      "_id": "42342275-9bbd-44fe-bf71-6036d8e8e255"
+    },
+    {
+      "genre": "Magical realism",
+      "_id": "e6c80d44-b637-4fdb-834f-ee14b5386373"
+    },
+    {
+      "genre": "Mystery",
+      "_id": "2ab88581-3c00-4fd4-9696-199e643d3730"
+    },
+    {
+      "genre": "Paranoid fiction",
+      "_id": "f2865680-89b5-4305-a2bb-f7a900fdefda"
+    },
+    {
+      "genre": "Philosophical",
+      "_id": "4f89ccbd-b244-4484-8d98-bdd2e6d9fd0d"
+    },
+    {
+      "genre": "Political",
+      "_id": "db66ce4f-2afa-451c-9b66-e4f3a4e32425"
+    },
+    {
+      "genre": "Romance",
+      "_id": "6a3b0cc4-c6ab-4798-a224-07941460dae7"
+    },
+    {
+      "genre": "Saga",
+      "_id": "8f8d27c9-d23c-4a58-ae12-739290b9be9f"
+    },
+    {
+      "genre": "Satire",
+      "_id": "837941c1-d674-435f-ae25-b165fac8ceb2"
+    },
+    {
+      "genre": "Science fiction",
+      "_id": "a071c777-148a-498d-860b-1b1ff23d8ce5"
+    },
+    {
+      "genre": "Social",
+      "_id": "d28aed35-24ca-494f-a00b-0a0966a800ee"
+    },
+    {
+      "genre": "Speculative",
+      "_id": "d58c8a3e-0c9f-452a-9465-288336ca4f2b"
+    },
+    {
+      "genre": "Thriller",
+      "_id": "270ebdad-e04b-44da-84ce-6e2ce1519f9d"
+    },
+    {
+      "genre": "Urban",
+      "_id": "ff0b4aa3-cd4e-43e8-8d3a-09aa98d87a47"
+    },
+    {
+      "genre": "Western",
+      "_id": "d376de38-3000-408b-8301-e727ee91bf6f"
+    }
+  ]
+  
