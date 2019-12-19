@@ -30,8 +30,6 @@ class BaseAppLoader {
       await me.fetchConfig();
       me.updateConfigAndDependencies();
       await me.createHapiServerInstances();
-      me.registerAuthStrategies();
-      me.configureCookies();
       await me.registerPublicRoutes();
       await me.startServers();
     }
@@ -51,15 +49,7 @@ class BaseAppLoader {
 
   fetchBaseRoutes() {
     let me = this;
-    // Override in child class for different prefix.
     me.applicationData.publicRoutePrefix = `/v1/${me.repoInfo.name}`;
-  }
-
-  updateConfigAndDependencies() {
-    /*
-      Need to be implemented in Child Class
-      if config and dependencies common for all Hapi servers needs to be updated.
-    */
   }
 
   _getCommonPlugins() {
@@ -145,37 +135,7 @@ class BaseAppLoader {
       serverObj.log('Server started at: ' + serverObj.info.uri);
     });
   }
-
-  async authValidation(request) {
-    try {
-      await Auth.validate(request);
-    } catch (error) {
-      throw error;
-    }
-  }
-
-  registerSpecificStrategies(server, dependencies, config) {
-  }
-
-  registerAuthStrategies() {
-    let me = this;
-    _.each(_.values(me.applicationData.serverObjects), (serverObject) => {
-      me.registerSpecificStrategies(serverObject, me.applicationData.dependencies, me.applicationData.config);
-    })
-  }
-
-  configureSpecificCookies(server, dependencies, config) { // eslint-disable-line
-    /*
-      Child class needs to override it.
-    */
-  }
-
-  configureCookies() {
-    let me = this;
-    _.each(me.applicationData.serverObjects, (serverObject) => {
-      me.configureSpecificCookies(serverObject, me.applicationData.dependencies, me.applicationData.config);
-    });
-  }
+  
 
   /**
   * This method replies success back to the hapi reply.  If the message object has a statusCode, then use that.
