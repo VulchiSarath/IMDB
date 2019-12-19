@@ -2,11 +2,8 @@
 
 let Hapi = require('@hapi/hapi'),
   nconf = require('nconf'),
-  path = require('path'),
-  assert = require('assert'),
   _ = require('lodash'),
   fs = require('fs'),
-  Auth = require('./lib/common/helpers/auth'),
   Errors = require('./lib/common/errors');
 
 class BaseAppLoader {
@@ -15,7 +12,6 @@ class BaseAppLoader {
     let me = this;
     nconf.argv().env();
     me.cwd = process.cwd();
-    me.bootConfig = me._initializeBootConfig();
     me.applicationData = {
       dependencies: {},
       serverObjects: {}
@@ -36,15 +32,6 @@ class BaseAppLoader {
     catch (err) {
       throw err;
     }
-  }
-
-  _initializeBootConfig() {
-    let me = this;
-    let bootConfig = {}
-    if (nconf.get('bootConfig')) {
-      bootConfig = require(path.join(me.cwd, nconf.get('bootConfig')));
-    }
-    return bootConfig;
   }
 
   fetchBaseRoutes() {
