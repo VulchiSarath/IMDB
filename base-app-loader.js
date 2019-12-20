@@ -26,6 +26,7 @@ class BaseAppLoader {
       await me.fetchConfig();
       me.updateConfigAndDependencies();
       await me.createHapiServerInstances();
+      me.registerAuthStrategies();
       await me.registerPublicRoutes();
       await me.startServers();
     }
@@ -57,11 +58,18 @@ class BaseAppLoader {
           }
         }
       });
-
-      await server.register([]);
+      let plugins = me.getSpecificPlugins(instanceConfig, me.applicationData.config, me.applicationData.dependencies);
+      await server.register(plugins);
 
       me.applicationData.serverObjects[instanceConfig.label] = server;
     }
+  }
+
+  registerAuthStrategies() {
+    let me = this;
+    _.each(_.values(me.applicationData.serverObjects), (serverObject) => {
+      me.registerSpecificStrategies(serverObject, me.applicationData.dependencies, me.applicationData.config);
+    })
   }
 
   async registerPublicRoutes() {
