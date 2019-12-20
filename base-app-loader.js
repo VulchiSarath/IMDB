@@ -33,41 +33,10 @@ class BaseAppLoader {
       throw err;
     }
   }
-
+  
   fetchBaseRoutes() {
     let me = this;
     me.applicationData.publicRoutePrefix = `/v1/${me.repoInfo.name}`;
-  }
-
-  _getCommonPlugins() {
-    let me = this;
-
-    let plugins = [
-      {
-        plugin: require('hapi-swaggered'),
-        options: {
-          requiredTags: ['public'],
-          info: {
-            title: me.repoInfo.name,
-            version: me.repoInfo.version
-          },
-          endpoint: `${me.applicationData.publicRoutePrefix}/swagger`,
-          tagging: { mode: 'tags' }
-        }
-      },
-      {
-        plugin: require('hapi-swaggered-ui'),
-        options: {
-          title: me.repoInfo.name,
-          path: `${me.applicationData.publicRoutePrefix}/documentation`,
-          swaggerOptions: {
-            validatorUrl: false
-          }
-        }
-      }
-    ];
-
-    return plugins;
   }
 
   async createHapiServerInstances() {
@@ -88,9 +57,6 @@ class BaseAppLoader {
           }
         }
       });
-      let plugins = _.concat(
-        me._getCommonPlugins()
-      )
 
       await server.register([]);
 
