@@ -72,6 +72,25 @@ class BaseDbAccessor {
   }
 
 
+  async deleteData(options) {
+    return new Promise((resolve, reject) => {
+        try {
+            let model = mongoose.model(this.document, this.schema);
+            model.findOneAndRemove(options, (err, response) => {
+                if (err) {
+                    reject(err);
+                }
+                else {
+                    resolve(response);
+                }
+            })
+        } catch (e) {
+            reject(e);
+        }
+    });
+}
+
+
 }
 
 module.exports = BaseDbAccessor;
