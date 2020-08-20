@@ -23,7 +23,7 @@
   "dependencies": {
     "@hapi/hapi": "^18.4.0",
     "assert": "^2.0.0",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "cluster": "^0.7.7",
     "co": "^4.6.0",
     "fs": "0.0.1-security",
